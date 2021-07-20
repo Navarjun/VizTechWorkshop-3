@@ -1,0 +1,175 @@
+[
+  {
+    "column": "PE001223",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/PE001223",
+      "SDN:P01::PE001223",
+      "PAR"
+    ]
+  },
+  {
+    "column": "OXYOCPVL",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/OXYOCPVL/",
+      "SDN:P01::VOLTAGE_DOXY",
+      "Oxy_output_V"
+    ]
+  },
+  {
+    "column": "SVELCT01",
+    "sameAs": [
+      "SDN:P01::SVELCT01",
+      "http://vocab.nerc.ac.uk/collection/P01/current/SVELCT01/",
+      "Svel"
+    ]
+  },
+  {
+    "column": "DOXYSC01",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/DOXYSC01/",
+      "SDN:P01::DOXYSC01",
+      "OxML/L"
+    ]
+  },
+  {
+    "column": "FLUOCDOM",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/FLUOCDOM/",
+      "SDN:P01::FLUOCDOM",
+      "FISPuv0"
+    ]
+  },
+  {
+    "column": "SIGTPR01",
+    "sameAs": [
+      "SDN:P01::SIGTPR01/",
+      "http://vocab.nerc.ac.uk/collection/P01/current/SIGTPR01//",
+      "Sigma-t00"
+    ]
+  },
+  {
+    "column": "CDOMZZ01",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/CDOMZZ01/",
+      "SDN:P01::CDOMZZ01",
+      "wetCDOM"
+    ]
+  },
+  {
+    "column": "LVLTBU01",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/LVLTBU01/",
+      "SDN:P01::LVLTBU01",
+      "V5"
+    ]
+  },
+  {
+    "column": "TEMPSD01",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/TEMPSD01/",
+      "SDN:P01::TEMPSD01",
+      "Temp_SDEV"
+    ]
+  },
+  {
+    "column": "NTRAZZXX",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/NTRAZZXX/",
+      "SDN:P01::NTRAZZXX",
+      "Nitrate"
+    ]
+  },
+  {
+    "column": "POTMS601",
+    "sameAs": [
+      "SDN:P01::POTMS601",
+      "http://vocab.nerc.ac.uk/collection/P01/current/POTMS601/",
+      "Potemp068"
+    ]
+  },
+  {
+    "column": "oxTC",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P07/current/CFSN0199/",
+      "SDN:P01::OXYTAAOP"
+    ]
+  },
+  {
+    "column": "CNDCZZ01",
+    "sameAs": [
+      "SDN:P01::CNDCZZ01",
+      "http://vocab.nerc.ac.uk/collection/P01/current/CNDCZZ01/",
+      "C0S/m"
+    ]
+  },
+  {
+    "column": "Latitude",
+    "sameAs": [
+      "SDN:P01::ALATZZ01",
+      "http://vocab.nerc.ac.uk/collection/P01/current/ALATZZ01",
+      "Latitude"
+    ]
+  },
+  {
+    "column": "TEMPS901",
+    "sameAs": [
+      "SDN:P01::TEMPS901",
+      "http://vocab.nerc.ac.uk/collection/P01/current/TEMPS901/",
+      "CF: Equivalent",
+      "T090C"
+    ]
+  },
+  {
+    "column": "PSALST01",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/PSALST01/",
+      "SDN:P01::PSALST01",
+      "Sal00"
+    ]
+  },
+  {
+    "column": "longitude",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/ALONZZ01/",
+      "SDN:P01::ALONZZ01"
+    ]
+  },
+  {
+    "column": "DOXYZZXX",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX/",
+      "SDN:P01::DOXYZZXX",
+      "OxMg/L"
+    ]
+  },
+  {
+    "column": "OXYSSC01",
+    "sameAs": [
+      "SDN:P01::OXYSSC01",
+      "http://vocab.nerc.ac.uk/collection/P01/current/OXYSSC01/",
+      "Sbeox1PS"
+    ]
+  },
+  {
+    "column": "DEPSM",
+    "sameAs": [
+      "SDN:S06::S0600167",
+      "http://vocab.nerc.ac.uk/collection/S0600167"
+    ]
+  },
+  {
+    "column": "FLUOZZZZ",
+    "sameAs": [
+      "http://vocab.nerc.ac.uk/collection/P01/current/FLUOZZZZ/",
+      "SDN:P01::FLUOZZZZ",
+      "FISP"
+    ]
+  },
+  {
+    "column": "Pr",
+    "sameAs": [
+      "SDN:P01::PRESPR01",
+      "http://vocab.nerc.ac.uk/collection/P01/current/PRESPR01"
+    ]
+  }
+]
