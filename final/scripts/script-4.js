@@ -9,7 +9,7 @@ let container = svg.append('g');
 
 
 d3.json('./data/sets.json')
-.then(function ([data]) {
+.then(function (data) {
     console.log(data);
 
     // Defining a force that brings all bubbles to the center
@@ -24,7 +24,7 @@ d3.json('./data/sets.json')
     let simulation = d3.forceSimulation(data) // binding the force simulation to the data
         .force('center', centerForce)
         .force('collide', d3.forceCollide().radius(50));
-
+    
     // Adding column groups which will contain all the bubbles for each column
     let columnGroup = container.selectAll('g.column-group')
         .data(data)
