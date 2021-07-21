@@ -20,7 +20,6 @@ Promise.all([
         .strength(1);
 
     let simulation = d3.forceSimulation(data)
-        .force('charge', d3.forceManyBody().distanceMin(10).distanceMax(40).strength(0.4))
         .force('center', centerForce)
         .force('collide', d3.forceCollide().radius(50));
 
